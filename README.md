@@ -3,8 +3,7 @@
 About me:
 
     👨‍💻 I'm currently studying Computer Science at State University of Northern Paraná.
-    🐶 I'm developing a website for UENP's veterinary hospital.
-
+    
 
 
 
