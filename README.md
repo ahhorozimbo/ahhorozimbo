@@ -1,43 +1,30 @@
-## Hi there 👋
+## Olá, eu sou o Antonio Hajime 👋
 
-About me:
+Bacharel em Ciência da Computação pela UENP e professor de Desenvolvimento de Sistemas no ensino médio técnico. Gosto de construir ferramentas que ajudam a ensinar e a aprender programação.
 
-    👨‍💻 I'm currently studying Computer Science at State University of Northern Paraná.
-    
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahhorozimbo/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ahhorozimbo/)
+[![E-mail](https://img.shields.io/badge/-orozimbo.ao@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:orozimbo.ao@gmail.com)
 
+### 📌 Projetos em destaque
 
+| Projeto | O que é |
+|---|---|
+| [LifeOS](https://github.com/ahhorozimbo/LifeOS) | PWA local-first para organizar o dia em três tarefas essenciais, com gamificação e funcionamento offline |
+| [graphic-computer](https://github.com/ahhorozimbo/graphic-computer) | Filtros de imagem no navegador, animação em canvas e detecção de placas com OpenCV |
+| [search-algorithms](https://github.com/ahhorozimbo/search-algorithms) | Comparação de algoritmos de busca (BFS, DFS, custo uniforme, aprofundamento iterativo) num espaço de 100+ estados |
+| [simpleInterpreter-py](https://github.com/ahhorozimbo/simpleInterpreter-py) | Interpretador de expressões matemáticas em Python (lexer + parser) |
+| [graduacao-uenp](https://github.com/ahhorozimbo/graduacao-uenp) | Exercícios e trabalhos da graduação, organizados por disciplina |
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahhorozimbo/)](https://www.linkedin.com/in/ahhorozimbo/)
-[![whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5543996960395)](https://api.whatsapp.com/send?phone=5543996960395)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahhorozimbo/)](https://www.instagram.com/ahhorozimbo/)
-[![Gmail Badge](https://img.shields.io/badge/-orozimbo.ao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orozimbo.ao@gmail.com)](mailto:orozimbo.ao@gmail.com)
+### 🛠️ Tecnologias
 
-![Antonio Hajime Github Stats](https://github-readme-stats.vercel.app/api?username=ahhorozimbo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhorozimbo&layout=compact&langs_count=16&theme=dark"/>
-
-## ⚡ Knowledge ⚡
-
-### Programming Languages:<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&fontColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-5382A1?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat-square&logo=PHP&logoColor=white)
-
-### Front-End
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-5382A1?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-
-### Back-End
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel)
-![MySQL](https://img.shields.io/badge/-MySQL-323330?style=flat-square&logo=mysql)
-
-
-### OS & IDE & Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Intellij](https://img.shields.io/badge/IntelliJ-white?style=flat&logo=jetbrains&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
